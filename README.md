@@ -64,10 +64,6 @@ Welcome to Ruby Friends! This is a simple Full Stack Web Application created usi
 4. The Navbar allows a user to edit their profile and remove it from the database.
 </details>
 
-### 🔗 Links
-
-Comning soon...
-
 ## ⏭️ Next Steps
 
 - [ ] Find and fix possible bugs
